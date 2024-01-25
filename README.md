@@ -1,7 +1,7 @@
 # SkiRentalApp: React Web App + ASP.NET Core Web API + Entity Framework Core + Bootstrap + MS SQL + Unit Tests
 
 The project focuses on designing and building software to operate ski rentals. It presents a tool for managing categories, equipment and rentals. It is also possible to easily and functionally record activities performed during the day in the system. In the project, communication between the frontend and backend is possible thanks to HTTP queries to the endpoints. API controllers allow you to support appropriate operations. The designed application and created database allow you to organize useful functionalities in one place. A simple and clear interface allows for intuitive navigation around the system. It is an application that maintains website responsiveness, so the user can use it on various devices. To check the correct operation of the system, the project used unit tests. Endpoints located in controllers were tested. Using testing support tools, it was possible to quickly and effectively check the correct operation of the system. The project presents a modern web application with many functionalities offering security and scalability.
-  
+   
 ----------------------------------------
 
 **Technologies used in the project**
